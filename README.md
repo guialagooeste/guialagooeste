@@ -23,7 +23,7 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 * **React Router DOM:** Para navegação e roteamento entre as páginas.
 * **Tailwind CSS:** Framework CSS para estilização rápida e responsiva.
 * **Lucide React:** Biblioteca de ícones.
-* **Vite:** Ferramenta de build rápida.
+* **Vite:** Ferramenta de build rápida (ou Create React App, se você usou).
 
 ---
 
@@ -61,5 +61,5 @@ Para iniciar o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# OU
-# yarn dev
+# OU (se você usa Create React App)
+# npm start
